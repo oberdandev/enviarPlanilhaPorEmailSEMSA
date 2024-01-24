@@ -1,0 +1,1705 @@
+[2024-01-03T21:14:42.201Z] - [SUCESSO] Usf O 23 - francisca.vicente@pmm.am.gov.br
+[2024-01-03T21:15:07.882Z] - [SUCESSO] Usf Bairro da Paz - cristiane.rodrigues@pmm.am.gov.br
+[2024-01-03T21:15:08.617Z] - [SUCESSO] Usf Mansour Bulbol - aldemarina.pereira@pmm.am.gov.br
+[2024-01-03T21:15:07.872Z] - [SUCESSO] Poli Dr Djalma Batista - francisca.vicente@pmm.am.gov.br
+[2024-01-03T21:15:07.842Z] - [SUCESSO] Usf Luiz Montenegro - kellen.amorim@pmm.am.gov.br
+[2024-01-03T21:15:08.618Z] - [SUCESSO] Usf O 43 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-03T21:15:08.619Z] - [SUCESSO] Usf O 26 - elenilda.silva@pmm.am.gov.br
+[2024-01-03T21:15:08.620Z] - [SUCESSO] Usf Ajuricaba - nair.silva@pmm.am.gov.br
+[2024-01-03T21:15:08.621Z] - [SUCESSO] Usf Sao Vicente de Paulo - andrea.torrinha@pmm.am.gov.br
+[2024-01-03T21:15:09.091Z] - [SUCESSO] Usf O 16 - francisca.vicente@pmm.am.gov.br
+[2024-01-03T21:15:08.623Z] - [SUCESSO] Usf O 01 - vivian.rolim@pmm.am.gov.br
+[2024-01-03T21:15:08.622Z] - [SUCESSO] Usf O 21 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-03T21:15:09.090Z] - [SUCESSO] Usf O 03 - nair.silva@pmm.am.gov.br
+[2024-01-03T21:15:09.092Z] - [SUCESSO] Usf Dom Milton Correa - gloria.souza@pmm.am.gov.br
+[2024-01-03T21:15:09.190Z] - [SUCESSO] Usf Vila da Prata - suelen.ferreira@pmm.am.gov.br
+[2024-01-03T21:15:09.192Z] - [SUCESSO] Usf O 20 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-03T21:15:09.193Z] - [SUCESSO] Usf O 38 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-03T21:15:09.194Z] - [SUCESSO] Usf O 17 - sbxb@hotmail.com
+[2024-01-03T21:15:09.196Z] - [SUCESSO] Usf O 19 - sammuelleabreu@gmail.com
+[2024-01-03T21:15:09.196Z] - [SUCESSO] Usf O 37 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-03T21:15:09.195Z] - [SUCESSO] Usf O 04 - renata.simao@pmm.am.gov.br
+[2024-01-03T21:15:10.184Z] - [SUCESSO] Usf O 48 - luiz.martins@pmm.am.gov.br
+[2024-01-03T21:15:10.186Z] - [SUCESSO] Usf O 45 - yanylugo4@gmail.com
+[2024-01-03T21:15:10.187Z] - [SUCESSO] UBS Lindalva Damasceno - luiz.martins@pmm.am.gov.br
+[2024-01-03T21:15:10.210Z] - [SUCESSO] Usf Santo Antonio - mariadosocorro.brilhante@pmm.am.gov.br
+[2024-01-03T21:15:10.387Z] - [SUCESSO] Usf O 07 - renata.simao@pmm.am.gov.br
+[2024-01-03T21:15:10.405Z] - [SUCESSO] Usf Redencao - renata.simao@pmm.am.gov.br
+[2024-01-03T21:15:10.803Z] - [SUCESSO] Usf Santos Dumont - yuria.silva@pmm.am.gov.br
+[2024-01-03T21:15:10.801Z] - [SUCESSO] Usf O 53 - luiz.martins@pmm.am.gov.br
+[2024-01-03T21:15:10.804Z] - [SUCESSO] UBS Maria Ida Mentoni - elenilda.silva@pmm.am.gov.br
+[2024-01-03T21:15:11.149Z] - [SUCESSO] Usf O 25 - rayssa.menezes@pmm.am.gov.br
+[2024-01-03T21:15:11.339Z] - [SUCESSO] Usf O 10 - hellen.assis@pmm.am.gov.br 
+[2024-01-03T21:15:11.363Z] - [SUCESSO] Usf Dr Rayol dos Santos - rayssa.menezes@pmm.am.gov.br
+[2024-01-03T21:15:11.349Z] - [SUCESSO] Usf O 30 - mariadosocorro.brilhante@pmm.am.gov.br
+[2024-01-03T21:15:11.546Z] - [SUCESSO] Usf Leonor de Freitas - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-03T21:15:11.747Z] - [SUCESSO] Usf O 11 - hellen.assis@pmm.am.gov.br 
+[2024-01-03T21:15:11.875Z] - [SUCESSO] Usf Deodato de Miranda Leao - rosicley.barcelos@pmm.am.gov.br
+[2024-01-03T21:15:12.060Z] - [SUCESSO] Usf O 46 - priscilageberr@gmail.com
+[2024-01-03T21:15:12.126Z] - [SUCESSO] Usf O 40 - francisca.vicente@pmm.am.gov.br
+[2024-01-03T21:15:12.127Z] - [SUCESSO] Usf O 22 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-03T21:15:12.128Z] - [SUCESSO] Usf O 18 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:02:13.152Z] - [SUCESSO] Usf Dr Rayol dos Santos - rayssa.menezes@pmm.am.gov.br
+[2024-01-04T13:02:13.154Z] - [SUCESSO] Poli Dr Djalma Batista - francisca.vicente@pmm.am.gov.br
+[2024-01-04T13:02:13.149Z] - [SUCESSO] Usf Luiz Montenegro - kellen.amorim@pmm.am.gov.br
+[2024-01-04T13:02:13.151Z] - [SUCESSO] Usf Ajuricaba - nair.silva@pmm.am.gov.br
+[2024-01-04T13:02:13.178Z] - [SUCESSO] Usf O 43 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:02:13.175Z] - [SUCESSO] Usf Redencao - renata.simao@pmm.am.gov.br
+[2024-01-04T13:02:13.180Z] - [SUCESSO] Usf Deodato de Miranda Leao - rosicley.barcelos@pmm.am.gov.br
+[2024-01-04T13:02:13.183Z] - [SUCESSO] Usf Sao Vicente de Paulo - andrea.torrinha@pmm.am.gov.br
+[2024-01-04T13:02:13.177Z] - [SUCESSO] Usf Bairro da Paz - cristiane.rodrigues@pmm.am.gov.br
+[2024-01-04T13:02:13.181Z] - [SUCESSO] Usf Dom Milton Correa - gloria.souza@pmm.am.gov.br
+[2024-01-04T13:02:13.185Z] - [SUCESSO] Usf Santos Dumont - yuria.silva@pmm.am.gov.br
+[2024-01-04T13:02:13.187Z] - [SUCESSO] Usf O 01 - vivian.rolim@pmm.am.gov.br
+[2024-01-04T13:02:13.190Z] - [SUCESSO] Usf Leonor de Freitas - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:02:13.192Z] - [SUCESSO] Usf Vila da Prata - suelen.ferreira@pmm.am.gov.br
+[2024-01-04T13:02:13.263Z] - [SUCESSO] Usf Mansour Bulbol - aldemarina.pereira@pmm.am.gov.br
+[2024-01-04T13:02:13.265Z] - [SUCESSO] UBS Lindalva Damasceno - luiz.martins@pmm.am.gov.br
+[2024-01-04T13:02:13.269Z] - [SUCESSO] Usf O 20 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:02:13.267Z] - [SUCESSO] Usf O 30 - mariadosocorro.brilhante@pmm.am.gov.br
+[2024-01-04T13:02:13.268Z] - [SUCESSO] Usf O 37 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-04T13:02:13.270Z] - [SUCESSO] Usf O 23 - francisca.vicente@pmm.am.gov.br
+[2024-01-04T13:02:13.272Z] - [SUCESSO] Usf O 25 - rayssa.menezes@pmm.am.gov.br
+[2024-01-04T13:02:13.273Z] - [SUCESSO] Usf O 26 - elenilda.silva@pmm.am.gov.br
+[2024-01-04T13:02:13.274Z] - [SUCESSO] Usf O 38 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-04T13:02:13.271Z] - [SUCESSO] Usf O 21 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:02:13.284Z] - [SUCESSO] Usf O 04 - renata.simao@pmm.am.gov.br
+[2024-01-04T13:02:13.285Z] - [SUCESSO] Usf O 17 - sbxb@hotmail.com
+[2024-01-04T13:02:13.283Z] - [SUCESSO] Usf O 03 - nair.silva@pmm.am.gov.br
+[2024-01-04T13:02:13.285Z] - [SUCESSO] Usf O 16 - francisca.vicente@pmm.am.gov.br
+[2024-01-04T13:02:13.288Z] - [SUCESSO] Usf O 07 - renata.simao@pmm.am.gov.br
+[2024-01-04T13:02:13.286Z] - [SUCESSO] Usf O 10 - hellen.assis@pmm.am.gov.br 
+[2024-01-04T13:02:13.287Z] - [SUCESSO] Usf O 11 - hellen.assis@pmm.am.gov.br 
+[2024-01-04T13:02:13.289Z] - [SUCESSO] Usf O 18 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:02:13.290Z] - [SUCESSO] Usf O 19 - sammuelleabreu@gmail.com
+[2024-01-04T13:02:13.292Z] - [SUCESSO] UBS Maria Ida Mentoni - elenilda.silva@pmm.am.gov.br
+[2024-01-04T13:02:13.302Z] - [SUCESSO] Usf O 40 - francisca.vicente@pmm.am.gov.br
+[2024-01-04T13:02:13.301Z] - [SUCESSO] Usf O 22 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:06:50.412Z] - [SUCESSO] Usf Luiz Montenegro - kellen.amorim@pmm.am.gov.br
+[2024-01-04T13:06:50.413Z] - [SUCESSO] Usf Redencao - renata.simao@pmm.am.gov.br
+[2024-01-04T13:06:50.415Z] - [SUCESSO] Usf O 21 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:06:50.409Z] - [SUCESSO] Usf Santos Dumont - yuria.silva@pmm.am.gov.br
+[2024-01-04T13:06:50.434Z] - [SUCESSO] Usf Ajuricaba - nair.silva@pmm.am.gov.br
+[2024-01-04T13:06:50.437Z] - [SUCESSO] Usf Dr Rayol dos Santos - rayssa.menezes@pmm.am.gov.br
+[2024-01-04T13:06:50.436Z] - [SUCESSO] Usf Bairro da Paz - cristiane.rodrigues@pmm.am.gov.br
+[2024-01-04T13:06:50.435Z] - [SUCESSO] Usf Deodato de Miranda Leao - rosicley.barcelos@pmm.am.gov.br
+[2024-01-04T13:06:50.437Z] - [SUCESSO] Usf O 43 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:07:53.257Z] - [SUCESSO] Usf Deodato de Miranda Leao - rosicley.barcelos@pmm.am.gov.br
+[2024-01-04T13:07:53.258Z] - [SUCESSO] Usf O 01 - vivian.rolim@pmm.am.gov.br
+[2024-01-04T13:07:53.271Z] - [SUCESSO] Usf Ajuricaba - nair.silva@pmm.am.gov.br
+[2024-01-04T13:07:53.255Z] - [SUCESSO] Usf Santos Dumont - yuria.silva@pmm.am.gov.br
+[2024-01-04T13:07:53.273Z] - [SUCESSO] Usf Luiz Montenegro - kellen.amorim@pmm.am.gov.br
+[2024-01-04T13:07:53.272Z] - [SUCESSO] Usf Dom Milton Correa - gloria.souza@pmm.am.gov.br
+[2024-01-04T13:07:53.274Z] - [SUCESSO] Usf O 43 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:07:53.276Z] - [SUCESSO] Usf Redencao - renata.simao@pmm.am.gov.br
+[2024-01-04T13:07:53.274Z] - [SUCESSO] Usf Bairro da Paz - cristiane.rodrigues@pmm.am.gov.br
+[2024-01-04T13:07:53.275Z] - [SUCESSO] Usf Dr Rayol dos Santos - rayssa.menezes@pmm.am.gov.br
+[2024-01-04T13:07:53.278Z] - [SUCESSO] Usf Sao Vicente de Paulo - andrea.torrinha@pmm.am.gov.br
+[2024-01-04T13:07:53.312Z] - [SUCESSO] UBS Lindalva Damasceno - luiz.martins@pmm.am.gov.br
+[2024-01-04T13:07:53.278Z] - [SUCESSO] Usf Vila da Prata - suelen.ferreira@pmm.am.gov.br
+[2024-01-04T13:07:53.277Z] - [SUCESSO] Poli Dr Djalma Batista - francisca.vicente@pmm.am.gov.br
+[2024-01-04T13:07:53.311Z] - [SUCESSO] Usf Mansour Bulbol - aldemarina.pereira@pmm.am.gov.br
+[2024-01-04T13:07:53.315Z] - [SUCESSO] Usf O 38 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-04T13:07:53.312Z] - [SUCESSO] Usf Leonor de Freitas - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:07:53.314Z] - [SUCESSO] Usf O 04 - renata.simao@pmm.am.gov.br
+[2024-01-04T13:07:53.313Z] - [SUCESSO] Usf O 21 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:07:53.314Z] - [SUCESSO] Usf O 20 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:07:53.315Z] - [SUCESSO] Usf O 23 - francisca.vicente@pmm.am.gov.br
+[2024-01-04T13:07:53.324Z] - [SUCESSO] Usf O 03 - nair.silva@pmm.am.gov.br
+[2024-01-04T13:07:53.316Z] - [SUCESSO] Usf O 25 - rayssa.menezes@pmm.am.gov.br
+[2024-01-04T13:07:53.316Z] - [SUCESSO] Usf O 30 - mariadosocorro.brilhante@pmm.am.gov.br
+[2024-01-04T13:07:53.324Z] - [SUCESSO] Usf O 37 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-04T13:07:53.326Z] - [SUCESSO] Usf O 10 - hellen.assis@pmm.am.gov.br 
+[2024-01-04T13:07:53.325Z] - [SUCESSO] Usf O 07 - renata.simao@pmm.am.gov.br
+[2024-01-04T13:07:53.324Z] - [SUCESSO] Usf O 26 - elenilda.silva@pmm.am.gov.br
+[2024-01-04T13:07:53.327Z] - [SUCESSO] Usf O 18 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-04T13:07:53.328Z] - [SUCESSO] Usf O 17 - sbxb@hotmail.com
+[2024-01-04T13:07:53.327Z] - [SUCESSO] Usf O 11 - hellen.assis@pmm.am.gov.br 
+[2024-01-04T13:07:53.328Z] - [SUCESSO] Usf O 16 - francisca.vicente@pmm.am.gov.br
+[2024-01-04T13:07:53.328Z] - [SUCESSO] Usf Santo Antonio - mariadosocorro.brilhante@pmm.am.gov.br
+[2024-01-11T18:11:45.386Z] - [SUCESSO] Usf Ajuricaba - nair.silva@pmm.am.gov.br
+[2024-01-11T18:11:45.370Z] - [SUCESSO] Usf O 43 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-11T18:11:45.373Z] - [SUCESSO] Usf O 01 - vivian.rolim@pmm.am.gov.br
+[2024-01-11T18:11:45.373Z] - [SUCESSO] Usf Sao Vicente de Paulo - andrea.torrinha@pmm.am.gov.br
+[2024-01-11T18:11:45.388Z] - [SUCESSO] Usf Luiz Montenegro - kellen.amorim@pmm.am.gov.br
+[2024-01-11T18:11:45.387Z] - [SUCESSO] Usf Deodato de Miranda Leao - rosicley.barcelos@pmm.am.gov.br
+[2024-01-11T18:11:45.387Z] - [SUCESSO] Usf Bairro da Paz - cristiane.rodrigues@pmm.am.gov.br
+[2024-01-11T18:11:45.389Z] - [SUCESSO] Usf Redencao - renata.simao@pmm.am.gov.br
+[2024-01-11T18:11:45.393Z] - [SUCESSO] Poli Dr Djalma Batista - francisca.vicente@pmm.am.gov.br
+[2024-01-11T18:11:45.392Z] - [SUCESSO] Usf Dom Milton Correa - gloria.souza@pmm.am.gov.br
+[2024-01-11T18:11:45.390Z] - [SUCESSO] Usf Dr Rayol dos Santos - rayssa.menezes@pmm.am.gov.br
+[2024-01-11T18:11:45.391Z] - [SUCESSO] Usf Santos Dumont - yuria.silva@pmm.am.gov.br
+[2024-01-11T18:11:45.399Z] - [SUCESSO] Usf Leonor de Freitas - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-11T18:11:45.393Z] - [SUCESSO] Usf Vila da Prata - suelen.ferreira@pmm.am.gov.br
+[2024-01-11T18:11:45.400Z] - [SUCESSO] UBS Lindalva Damasceno - luiz.martins@pmm.am.gov.br
+[2024-01-11T18:11:45.400Z] - [SUCESSO] Usf Mansour Bulbol - aldemarina.pereira@pmm.am.gov.br
+[2024-01-11T18:11:45.401Z] - [SUCESSO] Usf O 20 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-11T18:11:45.401Z] - [SUCESSO] Usf O 21 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-11T18:11:45.402Z] - [SUCESSO] Usf O 25 - rayssa.menezes@pmm.am.gov.br
+[2024-01-11T18:11:45.402Z] - [SUCESSO] Usf O 23 - francisca.vicente@pmm.am.gov.br
+[2024-01-11T18:11:45.403Z] - [SUCESSO] Usf O 26 - elenilda.silva@pmm.am.gov.br
+[2024-01-11T18:11:45.403Z] - [SUCESSO] Usf O 30 - mariadosocorro.brilhante@pmm.am.gov.br
+[2024-01-11T18:11:45.404Z] - [SUCESSO] Usf O 37 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-11T18:11:45.410Z] - [SUCESSO] Usf O 38 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-11T18:11:45.411Z] - [SUCESSO] Usf O 03 - nair.silva@pmm.am.gov.br
+[2024-01-11T18:11:45.412Z] - [SUCESSO] Usf O 04 - renata.simao@pmm.am.gov.br
+[2024-01-11T18:11:45.413Z] - [SUCESSO] Usf O 10 - hellen.assis@pmm.am.gov.br 
+[2024-01-11T18:11:45.412Z] - [SUCESSO] Usf O 07 - renata.simao@pmm.am.gov.br
+[2024-01-11T18:11:45.413Z] - [SUCESSO] Usf O 17 - sbxb@hotmail.com
+[2024-01-11T18:11:45.414Z] - [SUCESSO] Usf O 45 - yanglugo4@gmail.com
+[2024-01-11T18:11:45.413Z] - [SUCESSO] Usf O 11 - hellen.assis@pmm.am.gov.br 
+[2024-01-11T18:11:45.414Z] - [SUCESSO] Usf O 46 - priscilageberr@gmail.com
+[2024-01-11T18:11:45.414Z] - [SUCESSO] Usf O 22 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-11T18:11:45.420Z] - [SUCESSO] Usf O 19 - sammuelleabreu@gmail.com
+[2024-01-11T18:11:45.420Z] - [SUCESSO] Usf O 18 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-11T18:11:45.420Z] - [SUCESSO] Usf O 16 - francisca.vicente@pmm.am.gov.br
+[2024-01-11T18:11:45.421Z] - [SUCESSO] UBS Maria Ida Mentoni - elenilda.silva@pmm.am.gov.br
+[2024-01-11T18:11:45.421Z] - [SUCESSO] Usf Santo Antonio - mariadosocorro.brilhante@pmm.am.gov.br
+[2024-01-11T18:11:45.422Z] - [SUCESSO] Usf O 40 - francisca.vicente@pmm.am.gov.br
+[2024-01-11T18:11:45.423Z] - [SUCESSO] Usf O 48 - luiz.martins@pmm.am.gov.br
+[2024-01-11T18:11:45.423Z] - [SUCESSO] Usf O 53 - luiz.martins@pmm.am.gov.br
+[2024-01-11T18:28:54.723Z] - [SUCESSO] Poli Dr Djalma Batista - francisca.vicente@pmm.am.gov.br
+[2024-01-11T18:28:54.733Z] - [SUCESSO] Usf Ajuricaba - nair.silva@pmm.am.gov.br
+[2024-01-11T18:28:54.721Z] - [SUCESSO] Usf Bairro da Paz - cristiane.rodrigues@pmm.am.gov.br
+[2024-01-11T18:28:54.735Z] - [SUCESSO] Usf Redencao - renata.simao@pmm.am.gov.br
+[2024-01-11T18:28:54.732Z] - [SUCESSO] Usf Luiz Montenegro - kellen.amorim@pmm.am.gov.br
+[2024-01-11T18:28:54.734Z] - [SUCESSO] Usf O 43 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-11T18:28:54.736Z] - [SUCESSO] Usf Dr Rayol dos Santos - rayssa.menezes@pmm.am.gov.br
+[2024-01-11T18:28:54.735Z] - [SUCESSO] Usf Deodato de Miranda Leao - rosicley.barcelos@pmm.am.gov.br
+[2024-01-11T18:28:54.738Z] - [SUCESSO] Usf Santos Dumont - yuria.silva@pmm.am.gov.br
+[2024-01-11T18:28:54.739Z] - [SUCESSO] Usf O 01 - vivian.rolim@pmm.am.gov.br
+[2024-01-11T18:28:54.739Z] - [SUCESSO] Usf Dom Milton Correa - gloria.souza@pmm.am.gov.br
+[2024-01-11T18:28:54.740Z] - [SUCESSO] Usf Vila da Prata - suelen.ferreira@pmm.am.gov.br
+[2024-01-11T18:28:54.773Z] - [SUCESSO] Usf Leonor de Freitas - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-11T18:28:54.776Z] - [SUCESSO] Usf Sao Vicente de Paulo - andrea.torrinha@pmm.am.gov.br
+[2024-01-11T18:28:54.776Z] - [SUCESSO] Usf O 20 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-11T18:28:54.774Z] - [SUCESSO] Usf Mansour Bulbol - aldemarina.pereira@pmm.am.gov.br
+[2024-01-11T18:28:54.777Z] - [SUCESSO] UBS Lindalva Damasceno - luiz.martins@pmm.am.gov.br
+[2024-01-11T18:28:54.777Z] - [SUCESSO] Usf O 21 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-11T18:28:54.778Z] - [SUCESSO] Usf O 26 - elenilda.silva@pmm.am.gov.br
+[2024-01-11T18:28:54.778Z] - [SUCESSO] Usf O 23 - francisca.vicente@pmm.am.gov.br
+[2024-01-11T18:28:54.778Z] - [SUCESSO] Usf O 25 - rayssa.menezes@pmm.am.gov.br
+[2024-01-11T18:28:54.788Z] - [SUCESSO] Usf O 10 - hellen.assis@pmm.am.gov.br 
+[2024-01-11T18:28:54.789Z] - [SUCESSO] Usf O 11 - hellen.assis@pmm.am.gov.br 
+[2024-01-11T18:28:54.780Z] - [SUCESSO] Usf O 17 - sbxb@hotmail.com
+[2024-01-11T18:28:54.789Z] - [SUCESSO] Usf O 30 - mariadosocorro.brilhante@pmm.am.gov.br
+[2024-01-11T18:28:54.790Z] - [SUCESSO] Usf O 04 - renata.simao@pmm.am.gov.br
+[2024-01-11T18:28:54.790Z] - [SUCESSO] Usf O 37 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-11T18:28:54.791Z] - [SUCESSO] Usf O 38 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-11T18:28:54.792Z] - [SUCESSO] Usf O 03 - nair.silva@pmm.am.gov.br
+[2024-01-11T18:28:54.793Z] - [SUCESSO] Usf O 18 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-11T18:28:54.793Z] - [SUCESSO] Usf O 07 - renata.simao@pmm.am.gov.br
+[2024-01-11T18:28:54.794Z] - [SUCESSO] Usf O 40 - francisca.vicente@pmm.am.gov.br
+[2024-01-11T18:28:54.800Z] - [SUCESSO] Usf O 45 - yanglugo4@gmail.com
+[2024-01-11T18:28:54.801Z] - [SUCESSO] Usf O 46 - priscilageberr@gmail.com
+[2024-01-11T18:28:54.801Z] - [SUCESSO] Usf O 22 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-11T18:28:54.801Z] - [SUCESSO] Usf O 48 - luiz.martins@pmm.am.gov.br
+[2024-01-11T18:28:54.803Z] - [SUCESSO] UBS Maria Ida Mentoni - elenilda.silva@pmm.am.gov.br
+[2024-01-11T18:28:54.802Z] - [SUCESSO] Usf O 19 - sammuelleabreu@gmail.com
+[2024-01-11T18:28:54.803Z] - [SUCESSO] Usf Santo Antonio - mariadosocorro.brilhante@pmm.am.gov.br
+[2024-01-11T18:28:54.803Z] - [SUCESSO] Usf O 16 - francisca.vicente@pmm.am.gov.br
+[2024-01-11T18:28:54.803Z] - [SUCESSO] Usf O 53 - luiz.martins@pmm.am.gov.br
+[2024-01-23T20:09:15.941Z] - [23/01/2024, 20:09:15][INICIO] Início do Processo de Envio de Emails dia
+[2024-01-23T20:09:16.089Z] - [SUCESSO] Poli Dr Djalma Batista - francisca.vicente@pmm.am.gov.br
+[2024-01-23T20:09:16.087Z] - [SUCESSO] Usf O 01 - vivian.rolim@pmm.am.gov.br
+[2024-01-23T20:09:16.108Z] - [SUCESSO] Usf Dr Rayol dos Santos - rayssa.menezes@pmm.am.gov.br
+[2024-01-23T20:09:16.104Z] - [SUCESSO] Usf Bairro da Paz - cristiane.rodrigues@pmm.am.gov.br
+[2024-01-23T20:09:16.106Z] - [SUCESSO] Usf O 43 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-23T20:09:16.105Z] - [SUCESSO] Usf Santos Dumont - yuria.silva@pmm.am.gov.br
+[2024-01-23T20:09:16.109Z] - [SUCESSO] Usf Redencao - renata.simao@pmm.am.gov.br
+[2024-01-23T20:09:16.108Z] - [SUCESSO] Usf Deodato de Miranda Leao - rosicley.barcelos@pmm.am.gov.br
+[2024-01-23T20:09:16.112Z] - [SUCESSO] Usf Luiz Montenegro - kellen.amorim@pmm.am.gov.br
+[2024-01-23T20:09:16.110Z] - [SUCESSO] Usf Dom Milton Correa - gloria.souza@pmm.am.gov.br
+[2024-01-23T20:09:16.112Z] - [SUCESSO] Usf Ajuricaba - nair.silva@pmm.am.gov.br
+[2024-01-23T20:09:16.113Z] - [SUCESSO] Usf Sao Vicente de Paulo - andrea.torrinha@pmm.am.gov.br
+[2024-01-23T20:09:53.143Z] - [23/01/2024, 20:09:53][INICIO] Início do Processo de Envio de Emails dia
+[2024-01-23T20:09:53.211Z] - [SUCESSO] Usf Luiz Montenegro - kellen.amorim@pmm.am.gov.br
+[2024-01-23T20:09:53.209Z] - [SUCESSO] Usf Ajuricaba - nair.silva@pmm.am.gov.br
+[2024-01-23T20:09:53.225Z] - [SUCESSO] Usf Santos Dumont - yuria.silva@pmm.am.gov.br
+[2024-01-23T20:09:53.226Z] - [SUCESSO] Usf O 43 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-23T20:09:53.222Z] - [SUCESSO] Usf Redencao - renata.simao@pmm.am.gov.br
+[2024-01-23T20:09:53.223Z] - [SUCESSO] Usf Bairro da Paz - cristiane.rodrigues@pmm.am.gov.br
+[2024-01-23T20:09:53.244Z] - [SUCESSO] Usf Dr Rayol dos Santos - rayssa.menezes@pmm.am.gov.br
+[2024-01-23T20:09:53.226Z] - [SUCESSO] Usf Deodato de Miranda Leao - rosicley.barcelos@pmm.am.gov.br
+[2024-01-23T20:09:53.243Z] - [SUCESSO] Usf Dom Milton Correa - gloria.souza@pmm.am.gov.br
+[2024-01-23T20:09:53.245Z] - [SUCESSO] Usf O 01 - vivian.rolim@pmm.am.gov.br
+[2024-01-23T20:09:53.245Z] - [SUCESSO] Usf Sao Vicente de Paulo - andrea.torrinha@pmm.am.gov.br
+[2024-01-23T20:09:53.246Z] - [SUCESSO] Poli Dr Djalma Batista - francisca.vicente@pmm.am.gov.br
+[2024-01-23T20:09:53.246Z] - [SUCESSO] Usf Vila da Prata - suelen.ferreira@pmm.am.gov.br
+[2024-01-23T20:09:53.247Z] - [SUCESSO] Usf Mansour Bulbol - aldemarina.pereira@pmm.am.gov.br
+[2024-01-23T20:09:53.249Z] - [SUCESSO] UBS Lindalva Damasceno - ubslindalvadamasceno.oeste@gmail.com
+[2024-01-23T20:09:53.248Z] - [SUCESSO] Usf Leonor de Freitas - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-23T20:09:53.250Z] - [SUCESSO] Usf O 20 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-23T20:09:53.258Z] - [SUCESSO] Usf O 25 - rayssa.menezes@pmm.am.gov.br
+[2024-01-23T20:09:53.257Z] - [SUCESSO] Usf O 21 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-23T20:09:53.258Z] - [SUCESSO] Usf O 23 - francisca.vicente@pmm.am.gov.br
+[2024-01-23T20:09:53.259Z] - [SUCESSO] Usf O 26 - elenilda.silva@pmm.am.gov.br
+[2024-01-23T20:09:53.259Z] - [SUCESSO] Usf O 30 - mariadosocorro.brilhante@pmm.am.gov.br
+[2024-01-23T20:09:53.260Z] - [SUCESSO] Usf O 38 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-23T20:09:53.260Z] - [SUCESSO] Usf O 37 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-23T20:09:53.260Z] - [SUCESSO] Usf O 03 - nair.silva@pmm.am.gov.br
+[2024-01-23T20:09:53.270Z] - [SUCESSO] Usf O 10 - hellen.assis@pmm.am.gov.br 
+[2024-01-23T20:09:53.261Z] - [SUCESSO] Usf O 07 - renata.simao@pmm.am.gov.br
+[2024-01-23T20:09:53.261Z] - [SUCESSO] Usf O 04 - renata.simao@pmm.am.gov.br
+[2024-01-23T20:09:53.271Z] - [SUCESSO] Usf O 11 - hellen.assis@pmm.am.gov.br 
+[2024-01-23T20:09:53.272Z] - [SUCESSO] Usf O 17 - sbxb@hotmail.com
+[2024-01-23T20:09:53.273Z] - [SUCESSO] Usf O 16 - francisca.vicente@pmm.am.gov.br
+[2024-01-23T20:09:53.272Z] - [SUCESSO] Usf O 18 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-23T20:09:53.274Z] - [SUCESSO] Usf O 22 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-23T20:09:53.273Z] - [SUCESSO] Usf O 19 - sammuelleabreu@gmail.com
+[2024-01-23T20:09:53.274Z] - [SUCESSO] Usf Santo Antonio - mariadosocorro.brilhante@pmm.am.gov.br
+[2024-01-23T20:09:53.273Z] - [SUCESSO] UBS Maria Ida Mentoni - elenilda.silva@pmm.am.gov.br
+[2024-01-23T20:09:53.274Z] - [SUCESSO] Usf O 40 - francisca.vicente@pmm.am.gov.br
+[2024-01-23T20:09:53.282Z] - [SUCESSO] Usf O 45 - yanglugo4@gmail.com
+[2024-01-23T20:09:53.282Z] - [SUCESSO] Usf O 48 - ubslindalvadamasceno.oeste@gmail.com
+[2024-01-23T20:09:53.282Z] - [SUCESSO] Usf O 46 - priscilageberr@gmail.com
+[2024-01-23T20:09:53.283Z] - [SUCESSO] Usf O 53 - ubslindalvadamasceno.oeste@gmail.com
+[2024-01-23T20:13:29.523Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.510Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.512Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.524Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.526Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.525Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.526Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.528Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.530Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.529Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.531Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.569Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.531Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.568Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.570Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.569Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.571Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.570Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.572Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.571Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.572Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.573Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.582Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.581Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.583Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.582Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.584Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.583Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.585Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.584Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.585Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.594Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.585Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.593Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.594Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.597Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.596Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.597Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.595Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.597Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:13:29.598Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.664Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.662Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.662Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.664Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.675Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.676Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.675Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.676Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.677Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.677Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.679Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.679Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.681Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.680Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.680Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.681Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.682Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.682Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.682Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.684Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.683Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.683Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.684Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.683Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.692Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.692Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.685Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.685Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.692Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.693Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.693Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.694Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.692Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.694Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.694Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.694Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.695Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.695Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.695Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.695Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.697Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.697Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.697Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.697Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.705Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.698Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.698Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.705Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.706Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.706Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.706Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.707Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.707Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.707Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.708Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.708Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.708Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.708Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.709Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.709Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.709Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.709Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.709Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.709Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.711Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.711Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.718Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.718Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.718Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.718Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.719Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.719Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.719Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.719Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.720Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.720Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.720Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.720Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.721Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:14:37.721Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.721Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:14:37.721Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.183Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.180Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.180Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.183Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.194Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.196Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.197Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.195Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.196Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.198Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.199Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.197Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.198Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.200Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.202Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.200Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.199Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.205Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.204Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.203Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.202Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.203Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.241Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.241Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.206Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.206Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.242Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.243Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.242Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.243Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.244Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.243Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.243Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.244Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.245Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.244Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.244Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.245Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.245Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.245Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.246Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.246Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.247Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.247Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.256Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.256Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.257Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.257Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.258Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.258Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.259Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.259Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.259Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.259Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.260Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.260Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.261Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.261Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.262Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.262Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.262Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.263Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.263Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.262Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.273Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.272Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.273Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.272Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.273Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.273Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.274Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.274Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.274Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.274Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.275Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.275Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.275Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.275Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.275Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.275Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:00.276Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:00.276Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.465Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.462Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.465Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.462Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.482Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.484Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.482Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.484Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.485Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.487Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.485Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.489Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.496Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.487Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.489Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.497Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.496Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.498Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.498Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.497Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.499Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.500Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.499Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.500Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.501Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.501Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.501Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.503Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.501Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.504Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.503Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.504Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.505Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.515Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.515Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.505Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.517Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.517Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.518Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.518Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.519Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.519Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.520Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.520Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.521Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.521Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.522Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.522Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.522Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.523Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.523Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.522Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.523Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.524Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.530Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.530Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.531Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.532Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.533Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.533Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.534Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.534Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.534Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.534Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.536Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.535Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.535Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.536Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.537Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.537Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.538Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.538Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.538Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.546Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.546Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.538Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.547Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.548Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.548Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.547Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:18.548Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:18.548Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:58.641Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:58.644Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:58.640Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:58.644Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:58.655Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:58.655Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:58.655Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:58.655Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:58.656Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:58.656Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:58.657Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:21:58.657Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:58.658Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:21:58.658Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.725Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.725Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.723Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.723Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.726Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.726Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.742Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.742Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.743Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.745Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.745Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.745Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.743Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.746Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.745Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.746Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.748Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.748Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.750Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.749Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.749Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.751Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.750Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.751Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.751Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.751Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.758Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.758Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.759Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.759Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.760Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.760Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.760Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.760Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.761Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.761Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.762Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.762Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.762Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.763Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.763Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.762Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.763Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.763Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.764Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.764Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.773Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.773Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.774Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.774Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.775Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.775Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.775Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.775Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.776Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.776Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.777Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.777Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.777Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.777Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.778Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.778Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.779Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.779Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.780Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.780Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.789Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.789Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.790Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.790Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.791Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.791Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.791Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.791Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.792Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.792Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.792Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.792Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.793Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.793Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:22:41.793Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:22:41.793Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.823Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.821Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.823Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.821Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.835Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.835Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.837Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.837Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.838Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.842Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.840Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.843Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.838Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.843Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.844Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.844Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.845Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.845Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.846Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.846Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.847Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.847Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.847Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.847Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.848Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.848Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.885Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.885Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.886Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.886Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.886Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.886Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.888Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.888Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.888Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.888Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.889Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.889Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.890Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.889Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.890Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.890Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.890Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.890Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.891Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.891Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.943Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.943Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.944Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.944Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.944Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.944Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.945Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.945Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.946Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.946Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.946Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.946Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.947Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.947Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.949Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.949Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.950Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.950Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.951Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.951Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.977Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.977Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.978Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.978Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.978Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.979Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.979Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.979Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.979Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.979Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.980Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.980Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.980Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:24:12.980Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.981Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:24:12.981Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.832Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.830Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.832Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.830Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.843Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.844Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.843Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.844Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.845Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.847Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.845Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.849Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.848Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.848Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.849Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.852Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.848Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.850Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.850Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.852Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.853Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.852Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.854Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.854Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.862Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.862Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.862Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.862Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.863Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.863Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.864Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.864Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.864Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.865Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.864Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.865Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.865Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.865Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.866Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.866Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.867Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.866Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.866Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.867Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.875Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.876Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.875Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.875Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.877Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.876Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.877Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.878Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.876Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.878Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.878Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.878Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.880Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.879Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.881Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.879Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.880Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.881Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.881Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.881Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.889Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.890Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.889Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.890Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.890Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.891Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.890Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.891Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.892Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.892Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.892Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.892Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.892Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.893Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.892Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.893Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:28:43.893Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:28:43.893Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.280Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.279Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.282Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.282Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.283Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.283Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.298Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.297Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.300Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.300Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.299Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.299Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.302Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.301Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.301Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.302Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.303Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.303Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.305Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.304Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.304Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.306Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.305Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.306Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.306Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.306Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.313Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.313Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.314Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.314Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.315Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.315Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.316Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.316Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.316Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.316Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.317Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.317Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.317Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.317Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.318Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.318Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.318Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.318Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.319Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.319Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.326Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.326Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.326Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.326Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.327Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.327Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.328Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.328Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.328Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.328Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.329Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.329Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.330Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.330Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.330Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.330Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.331Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.331Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.331Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.331Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.339Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.339Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.339Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.339Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.340Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.340Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.340Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.340Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.340Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.341Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.341Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.341Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.341Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.342Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:10.341Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:10.342Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.022Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.024Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.024Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.022Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.034Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.034Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.035Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.035Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.037Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.036Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.036Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.038Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.037Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.038Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.039Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.039Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.041Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.041Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.041Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.041Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.043Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.042Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.042Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.043Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.043Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.077Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.077Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.043Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.078Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.078Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.078Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.079Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.079Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.078Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.079Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.079Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.080Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.080Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.080Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.081Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.081Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.081Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.082Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.082Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.082Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.082Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.091Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.092Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.092Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.092Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.091Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.092Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.093Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.093Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.094Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.093Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.094Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.094Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.095Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.095Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.095Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.095Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.095Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.095Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.096Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.096Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.103Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.103Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.104Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.104Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.105Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.105Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.105Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.105Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.105Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.105Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.106Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.106Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.106Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:30:49.106Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.107Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:30:49.107Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.740Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.741Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.740Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.738Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.738Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.754Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.741Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.754Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.755Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.756Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.755Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.757Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.756Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.757Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.759Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.757Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.757Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.760Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.759Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.760Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.761Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.761Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.761Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.762Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.761Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.793Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.793Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.762Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.794Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.793Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.793Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.794Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.794Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.794Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.796Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.795Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.795Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.796Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.797Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.797Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.797Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.797Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.798Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.798Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.799Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.799Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.806Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.806Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.807Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.807Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.808Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.808Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.808Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.808Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.809Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.809Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.809Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.809Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.810Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.810Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.811Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.811Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.811Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.811Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.812Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.812Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.819Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.820Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.820Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.819Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.820Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.821Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.821Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.820Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.821Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.821Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.822Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.821Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.822Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.823Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:31:27.823Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:31:27.822Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.317Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.319Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.319Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.317Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.320Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.320Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.335Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.336Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.336Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.337Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.335Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.337Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.338Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.338Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.340Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.340Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.341Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.341Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.341Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.342Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.342Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.342Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.343Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.344Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.344Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.343Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.350Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.351Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.351Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.350Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.352Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.352Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.351Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.353Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.352Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.353Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.353Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.353Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.354Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.353Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.355Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.355Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.355Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.355Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.363Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.356Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.356Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.364Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.363Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.364Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.366Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.365Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.366Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.366Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.367Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.367Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.367Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.367Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.368Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.368Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.369Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.369Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.370Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.370Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.369Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.369Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.376Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.377Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.376Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.377Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.377Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.378Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.377Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.378Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.378Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.379Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.379Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.378Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.379Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:32:48.379Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.380Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:32:48.380Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.086Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.088Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.085Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.089Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.088Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.089Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.092Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.092Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.094Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.094Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.096Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.096Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.098Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.098Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.100Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.100Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.165Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.163Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.163Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.167Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.165Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.168Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.167Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.168Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.169Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.170Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.169Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.171Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.170Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.171Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.171Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.171Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.172Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.172Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.173Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.173Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.196Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.200Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.199Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.197Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.202Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.204Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.202Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.204Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.205Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.207Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.205Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.207Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.208Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.209Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.208Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.209Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.210Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.211Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.210Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.211Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.214Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.228Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.214Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.228Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.230Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.232Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.230Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.232Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.233Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.233Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.233Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.233Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.234Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.234Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.234Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.234Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.235Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.235Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.235Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.235Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.243Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.236Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:33:21.236Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.243Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.244Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:33:21.244Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.570Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.572Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.572Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.570Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.584Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.590Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.584Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.590Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.593Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.593Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.596Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.599Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.596Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.603Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.599Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.603Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.605Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.608Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.605Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.611Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.608Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.611Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.654Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.654Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.658Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.658Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.668Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.681Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.668Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.681Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.691Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.691Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.699Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.699Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.707Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.707Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.719Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.719Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.733Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.733Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.744Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.751Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.751Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.744Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.758Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.758Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.767Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.767Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.773Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.773Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.780Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.779Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.785Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.785Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.797Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.797Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.805Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.805Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.813Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.813Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.858Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.859Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.872Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.872Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:07.881Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:07.881Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:08.984Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:08.984Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:08.984Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:08.984Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:08.985Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:08.985Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:08.986Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:08.986Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:08.987Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:08.987Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:08.987Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:08.987Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:08.988Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:08.988Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:08.988Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:08.988Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.234Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.239Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.239Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.236Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.241Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.242Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.241Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.242Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.289Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.243Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.244Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.289Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.290Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.290Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.291Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.291Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.294Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.292Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.292Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.296Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.296Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.294Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.296Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.297Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.296Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.297Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.297Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.297Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.298Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.298Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.308Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.310Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.308Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.310Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.312Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.311Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.311Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.312Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.314Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.313Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.313Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.315Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.314Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.315Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.315Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.315Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.316Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.316Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.318Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.318Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.328Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.328Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.329Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.329Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.330Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.330Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.330Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.330Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.331Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.331Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.331Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.331Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.332Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.332Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.332Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.332Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.333Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.333Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.333Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.333Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.340Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.340Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.341Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.341Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.341Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.341Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.341Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.341Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.342Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:44:58.342Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.342Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:44:58.342Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.595Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.601Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.595Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.605Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.602Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.601Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.602Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.605Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.607Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.607Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.624Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.624Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.628Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.625Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.628Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.625Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.631Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.631Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.681Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.683Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.681Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.686Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.687Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.683Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.686Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.687Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.687Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.687Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.688Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.689Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.688Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.689Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.694Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.694Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.696Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.696Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.697Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.698Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.697Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.698Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.699Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.699Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.721Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.722Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.722Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.722Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.723Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.723Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.724Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.724Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.731Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.731Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.726Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.726Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.733Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.735Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.733Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.735Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.736Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.739Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.736Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.739Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.744Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.759Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.744Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.759Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.760Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.761Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.761Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.760Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.761Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.761Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.762Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.762Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.763Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.763Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.763Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.763Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.764Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.764Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:47:13.764Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:47:13.764Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.661Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.661Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.652Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.652Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.672Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.672Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.674Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.674Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.679Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.678Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.682Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.681Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.683Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.683Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.685Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.686Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.688Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.688Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.691Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.693Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.691Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.693Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.778Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.778Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.779Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.779Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.782Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.781Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.781Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.782Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.781Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.782Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.783Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.783Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.786Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.786Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.787Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.787Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.788Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.789Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.789Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.802Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.802Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.788Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.803Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.805Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.803Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.804Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.805Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.806Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.804Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.806Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.806Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.808Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.806Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.807Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.808Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.807Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.808Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.809Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.809Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.808Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.821Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.821Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.822Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.822Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.823Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.823Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.823Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.823Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.824Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.824Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.825Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.825Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.825Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.825Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.826Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.826Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.828Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-23T20:48:19.828Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.829Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-23T20:48:19.829Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.539Z] - [SUCESSO] Usf O 43 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.541Z] - [SUCESSO] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.541Z] - [ERROR] Poli Dr Djalma Batista - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.539Z] - [ERROR] Usf O 43 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.557Z] - [SUCESSO] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.557Z] - [ERROR] Usf Santos Dumont - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.558Z] - [SUCESSO] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.558Z] - [ERROR] Usf Deodato de Miranda Leao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.560Z] - [ERROR] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.560Z] - [SUCESSO] Usf Ajuricaba - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.561Z] - [ERROR] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.561Z] - [SUCESSO] Usf Bairro da Paz - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.562Z] - [SUCESSO] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.562Z] - [ERROR] Usf Luiz Montenegro - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.563Z] - [ERROR] Usf Redencao - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.563Z] - [SUCESSO] Usf Redencao - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.564Z] - [SUCESSO] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.564Z] - [ERROR] Usf Dr Rayol dos Santos - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.567Z] - [SUCESSO] Usf O 01 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.567Z] - [ERROR] Usf O 01 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.565Z] - [ERROR] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.565Z] - [SUCESSO] Usf Dom Milton Correa - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.577Z] - [SUCESSO] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.568Z] - [ERROR] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.568Z] - [SUCESSO] Usf Vila da Prata - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.577Z] - [ERROR] Usf Sao Vicente de Paulo - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.578Z] - [ERROR] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.579Z] - [ERROR] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.578Z] - [SUCESSO] Usf Leonor de Freitas - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.579Z] - [SUCESSO] Usf Mansour Bulbol - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.580Z] - [ERROR] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.581Z] - [ERROR] Usf O 20 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.581Z] - [SUCESSO] Usf O 20 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.580Z] - [SUCESSO] UBS Lindalva Damasceno - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.582Z] - [ERROR] Usf O 21 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.583Z] - [ERROR] Usf O 25 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.582Z] - [SUCESSO] Usf O 21 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.585Z] - [ERROR] Usf O 23 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.583Z] - [SUCESSO] Usf O 25 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.588Z] - [ERROR] Usf O 04 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.585Z] - [SUCESSO] Usf O 23 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.588Z] - [SUCESSO] Usf O 04 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.589Z] - [ERROR] Usf O 07 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.598Z] - [ERROR] Usf O 10 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.589Z] - [SUCESSO] Usf O 07 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.598Z] - [SUCESSO] Usf O 10 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.602Z] - [ERROR] Usf O 11 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.602Z] - [SUCESSO] Usf O 11 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.604Z] - [ERROR] Usf O 30 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.604Z] - [SUCESSO] Usf O 30 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.605Z] - [ERROR] Usf O 26 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.606Z] - [ERROR] Usf O 37 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.605Z] - [SUCESSO] Usf O 26 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.606Z] - [SUCESSO] Usf O 37 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.607Z] - [ERROR] Usf O 38 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.607Z] - [SUCESSO] Usf O 38 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.608Z] - [ERROR] Usf O 03 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.610Z] - [ERROR] Usf O 17 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.608Z] - [SUCESSO] Usf O 03 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.610Z] - [SUCESSO] Usf O 17 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.611Z] - [ERROR] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.611Z] - [SUCESSO] UBS Maria Ida Mentoni - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.613Z] - [ERROR] Usf O 18 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.613Z] - [SUCESSO] Usf O 18 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.628Z] - [SUCESSO] Usf O 19 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.628Z] - [ERROR] Usf O 19 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.636Z] - [SUCESSO] Usf O 16 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.634Z] - [SUCESSO] Usf O 46 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.636Z] - [ERROR] Usf O 16 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.634Z] - [ERROR] Usf O 46 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.639Z] - [SUCESSO] Usf O 40 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.639Z] - [ERROR] Usf O 40 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.641Z] - [ERROR] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.641Z] - [SUCESSO] Usf Santo Antonio - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.642Z] - [ERROR] Usf O 22 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.642Z] - [SUCESSO] Usf O 22 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.644Z] - [SUCESSO] Usf O 45 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.644Z] - [ERROR] Usf O 45 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.649Z] - [ERROR] Usf O 48 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:08:59.649Z] - [SUCESSO] Usf O 48 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.650Z] - [SUCESSO] Usf O 53 - oberdan.sousa@pmm.am.gov.br
+[2024-01-24T14:08:59.650Z] - [ERROR] Usf O 53 - oberdan.sousa@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.048Z] - [SUCESSO] Usf Ajuricaba - nair.silva@pmm.am.gov.br
+[2024-01-24T14:13:11.050Z] - [ERROR] Usf O 43 - fabiana.encarnacao@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.050Z] - [SUCESSO] Usf O 43 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-24T14:13:11.031Z] - [ERROR] Usf Ajuricaba - nair.silva@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.054Z] - [ERROR] Poli Dr Djalma Batista - francisca.vicente@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.076Z] - [SUCESSO] Usf Dom Milton Correa - gloria.souza@pmm.am.gov.br
+[2024-01-24T14:13:11.076Z] - [ERROR] Usf Dom Milton Correa - gloria.souza@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.054Z] - [SUCESSO] Poli Dr Djalma Batista - francisca.vicente@pmm.am.gov.br
+[2024-01-24T14:13:11.078Z] - [ERROR] Usf Deodato de Miranda Leao - rosicley.barcelos@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.079Z] - [ERROR] Usf Santos Dumont - yuria.silva@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.078Z] - [SUCESSO] Usf Deodato de Miranda Leao - rosicley.barcelos@pmm.am.gov.br
+[2024-01-24T14:13:11.079Z] - [SUCESSO] Usf Santos Dumont - yuria.silva@pmm.am.gov.br
+[2024-01-24T14:13:11.079Z] - [ERROR] Usf Dr Rayol dos Santos - rayssa.menezes@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.080Z] - [ERROR] Usf O 01 - vivian.rolim@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.079Z] - [SUCESSO] Usf Dr Rayol dos Santos - rayssa.menezes@pmm.am.gov.br
+[2024-01-24T14:13:11.080Z] - [SUCESSO] Usf O 01 - vivian.rolim@pmm.am.gov.br
+[2024-01-24T14:13:11.081Z] - [ERROR] Usf Redencao - renata.simao@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.082Z] - [SUCESSO] Usf Sao Vicente de Paulo - andrea.torrinha@pmm.am.gov.br
+[2024-01-24T14:13:11.082Z] - [ERROR] Usf Sao Vicente de Paulo - andrea.torrinha@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.082Z] - [ERROR] Usf Vila da Prata - suelen.ferreira@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.081Z] - [SUCESSO] Usf Redencao - renata.simao@pmm.am.gov.br
+[2024-01-24T14:13:11.111Z] - [SUCESSO] Usf Leonor de Freitas - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-24T14:13:11.082Z] - [SUCESSO] Usf Vila da Prata - suelen.ferreira@pmm.am.gov.br
+[2024-01-24T14:13:11.111Z] - [ERROR] Usf Leonor de Freitas - fabiana.encarnacao@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.111Z] - [ERROR] Usf Mansour Bulbol - aldemarina.pereira@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.111Z] - [SUCESSO] Usf Mansour Bulbol - aldemarina.pereira@pmm.am.gov.br
+[2024-01-24T14:13:11.112Z] - [SUCESSO] UBS Lindalva Damasceno - ubslindalvadamasceno.oeste@gmail.com
+[2024-01-24T14:13:11.112Z] - [ERROR] UBS Lindalva Damasceno - ubslindalvadamasceno.oeste@gmail.com: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.112Z] - [ERROR] Usf O 20 - fabiana.encarnacao@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.113Z] - [SUCESSO] Usf O 21 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-24T14:13:11.113Z] - [ERROR] Usf O 21 - fabiana.encarnacao@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.112Z] - [SUCESSO] Usf O 20 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-24T14:13:11.113Z] - [ERROR] Usf O 23 - francisca.vicente@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.113Z] - [SUCESSO] Usf O 23 - francisca.vicente@pmm.am.gov.br
+[2024-01-24T14:13:11.115Z] - [SUCESSO] Usf O 25 - rayssa.menezes@pmm.am.gov.br
+[2024-01-24T14:13:11.115Z] - [ERROR] Usf O 25 - rayssa.menezes@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.116Z] - [ERROR] Usf O 26 - elenilda.silva@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.124Z] - [SUCESSO] Usf O 37 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-24T14:13:11.124Z] - [ERROR] Usf O 37 - aldemarina.pereira@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.116Z] - [SUCESSO] Usf O 26 - elenilda.silva@pmm.am.gov.br
+[2024-01-24T14:13:11.125Z] - [ERROR] Usf O 30 - mariadosocorro.brilhante@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.125Z] - [SUCESSO] Usf O 30 - mariadosocorro.brilhante@pmm.am.gov.br
+[2024-01-24T14:13:11.125Z] - [ERROR] Usf O 38 - aldemarina.pereira@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.125Z] - [SUCESSO] Usf O 38 - aldemarina.pereira@pmm.am.gov.br
+[2024-01-24T14:13:11.126Z] - [ERROR] Usf O 03 - nair.silva@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.126Z] - [SUCESSO] Usf O 03 - nair.silva@pmm.am.gov.br
+[2024-01-24T14:13:11.126Z] - [SUCESSO] Usf O 04 - renata.simao@pmm.am.gov.br
+[2024-01-24T14:13:11.126Z] - [ERROR] Usf O 04 - renata.simao@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.127Z] - [ERROR] Usf O 07 - renata.simao@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.127Z] - [SUCESSO] Usf O 07 - renata.simao@pmm.am.gov.br
+[2024-01-24T14:13:11.127Z] - [ERROR] Usf O 10 - hellen.assis@pmm.am.gov.br : Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.127Z] - [SUCESSO] Usf O 10 - hellen.assis@pmm.am.gov.br 
+[2024-01-24T14:13:11.128Z] - [ERROR] Usf O 11 - hellen.assis@pmm.am.gov.br : Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.128Z] - [ERROR] Usf O 17 - sbxb@hotmail.com: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.128Z] - [SUCESSO] Usf O 17 - sbxb@hotmail.com
+[2024-01-24T14:13:11.128Z] - [SUCESSO] Usf O 11 - hellen.assis@pmm.am.gov.br 
+[2024-01-24T14:13:11.137Z] - [SUCESSO] Usf O 18 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-24T14:13:11.137Z] - [SUCESSO] Usf O 19 - sammuelleabreu@gmail.com
+[2024-01-24T14:13:11.137Z] - [ERROR] Usf O 18 - fabiana.encarnacao@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.137Z] - [ERROR] Usf O 19 - sammuelleabreu@gmail.com: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.138Z] - [SUCESSO] Usf O 16 - francisca.vicente@pmm.am.gov.br
+[2024-01-24T14:13:11.138Z] - [SUCESSO] UBS Maria Ida Mentoni - elenilda.silva@pmm.am.gov.br
+[2024-01-24T14:13:11.138Z] - [ERROR] Usf O 16 - francisca.vicente@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.138Z] - [ERROR] UBS Maria Ida Mentoni - elenilda.silva@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.139Z] - [ERROR] Usf O 22 - fabiana.encarnacao@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.139Z] - [SUCESSO] Usf Santo Antonio - mariadosocorro.brilhante@pmm.am.gov.br
+[2024-01-24T14:13:11.139Z] - [ERROR] Usf Santo Antonio - mariadosocorro.brilhante@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.139Z] - [SUCESSO] Usf O 22 - fabiana.encarnacao@pmm.am.gov.br
+[2024-01-24T14:13:11.140Z] - [ERROR] Usf O 40 - francisca.vicente@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.140Z] - [SUCESSO] Usf O 40 - francisca.vicente@pmm.am.gov.br
+[2024-01-24T14:13:11.140Z] - [SUCESSO] Usf O 45 - yanglugo4@gmail.com
+[2024-01-24T14:13:11.140Z] - [ERROR] Usf O 45 - yanglugo4@gmail.com: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.140Z] - [ERROR] Usf O 46 - priscilageberr@gmail.com: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.140Z] - [SUCESSO] Usf O 46 - priscilageberr@gmail.com
+[2024-01-24T14:13:11.147Z] - [ERROR] Usf O 53 - ubslindalvadamasceno.oeste@gmail.com: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.147Z] - [SUCESSO] Usf O 53 - ubslindalvadamasceno.oeste@gmail.com
+[2024-01-24T14:13:11.148Z] - [ERROR] Usf O 48 - ubslindalvadamasceno.oeste@gmail.com: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.149Z] - [SUCESSO] Usf Luiz Montenegro - kellen.amorim@pmm.am.gov.br
+[2024-01-24T14:13:11.149Z] - [ERROR] Usf Luiz Montenegro - kellen.amorim@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
+[2024-01-24T14:13:11.148Z] - [SUCESSO] Usf O 48 - ubslindalvadamasceno.oeste@gmail.com
+[2024-01-24T14:13:21.649Z] - [SUCESSO] Usf Bairro da Paz - cristiane.rodrigues@pmm.am.gov.br
+[2024-01-24T14:13:21.649Z] - [ERROR] Usf Bairro da Paz - cristiane.rodrigues@pmm.am.gov.br: Cannot read properties of undefined (reading 'message')
